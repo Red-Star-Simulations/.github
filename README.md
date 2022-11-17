@@ -1,2 +1,0 @@
-# .github
-Red Star Simulation
